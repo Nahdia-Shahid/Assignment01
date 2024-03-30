@@ -1,0 +1,17 @@
+console.log("Area of rectangle");
+var length:number=5;
+var width:number=7;
+var area:number=length*width;
+console.log("Length=",length);
+console.log("Width=",width);
+console.log("The area of rectangle is ",area,"cm²");
+console.log("Area of Circle");
+var rad:number= 15;
+area=3.14*rad*rad;
+console.log("Radius=",rad);
+console.log("Area of Circle is",area,"cm²");
+console.log("Area of Cube");
+var side:number=3;
+area=6*side*side;
+console.log("Side=",side);
+console.log("Area of Cube is ",area,"cm²");
